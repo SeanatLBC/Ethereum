@@ -10,6 +10,7 @@ All things ETH
   *  EthHub - Article on ETH 2.0 Tokenomics:  https://docs.ethhub.io/ethereum-roadmap/ethereum-2.0/proof-of-stake/
   *  Zeppelin - EVERYTHING TOKENS (ERC20 and ERC721):  https://docs.openzeppelin.com/contracts/2.x/tokens.html
 
+What is Decentralization (by Vitalik):  https://medium.com/@VitalikButerin/the-meaning-of-decentralization-a0c92b76a274
 
 MyEtherWallet (MEW):  https://www.myetherwallet.com/
 
