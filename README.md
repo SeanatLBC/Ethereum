@@ -19,3 +19,5 @@ MEWConnect (A great way to manage your ETH wallets and interact with ETH DAPPS):
 ENS - Ethereum Name Service (customize your public address | decentralized web domain):   https://ens.domains/
 
 MEW CX - Web3:  https://medium.com/myetherwallet/mew-cx-the-web3-wallet-that-puts-the-user-in-full-control-90452755b4
+
+GaaS and CaaS:  Gas as a Service and Confirmation as a Service - REN:  https://medium.com/renproject/gatewayjs-caas-and-gaas-7e03817d8034
