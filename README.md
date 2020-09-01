@@ -16,6 +16,8 @@ MyEtherWallet (MEW):  https://www.myetherwallet.com/
 
 MEWConnect (A great way to manage your ETH wallets and interact with ETH DAPPS):  https://mewconnect.myetherwallet.com/#/
 
+How to CANCEL a Pending ETH Transaction:  https://info.etherscan.com/how-to-cancel-ethereum-pending-transactions/#replacing-cancel-pending-transactions
+
 ENS - Ethereum Name Service (customize your public address | decentralized web domain):   https://ens.domains/
 
 MEW CX - Web3:  https://medium.com/myetherwallet/mew-cx-the-web3-wallet-that-puts-the-user-in-full-control-90452755b4
