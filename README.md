@@ -27,3 +27,7 @@ MEW CX - Web3:  https://medium.com/myetherwallet/mew-cx-the-web3-wallet-that-put
 GaaS and CaaS:  Gas as a Service and Confirmation as a Service - REN:  https://medium.com/renproject/gatewayjs-caas-and-gaas-7e03817d8034
 
 Non-Fungible Tokens (NFT's) - this is a good interactive explainer on NFT's (beginner / user freindly):  https://cointelegraph.com/magazine/nonfungible-tokens/#what-are-the-best-known-projects
+
+DeFi - We look at many of the pieces at work within the decentralized finance landscape
+
+*  Ampleforth - https://www.ampleforth.org/
