@@ -18,6 +18,8 @@ MyEtherWallet (MEW):  https://www.myetherwallet.com/
 
 MEWConnect (A great way to manage your ETH wallets and interact with ETH DAPPS):  https://mewconnect.myetherwallet.com/#/
 
+MetaMask (A great wallet for ETH and dAPP's that can sit on your browser):  https://metamask.io/
+
 How to CANCEL a Pending ETH Transaction:  https://info.etherscan.com/how-to-cancel-ethereum-pending-transactions/#replacing-cancel-pending-transactions
 
 How to CHECK TOKEN BALANCES on your Ethereum Address:  https://info.etherscan.com/token-balance-checker/
