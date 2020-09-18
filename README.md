@@ -33,3 +33,7 @@ Non-Fungible Tokens (NFT's) - this is a good interactive explainer on NFT's (beg
 DeFi - We look at many of the pieces at work within the decentralized finance landscape
 
 *  Ampleforth - https://www.ampleforth.org/
+
+UniSwap - A big part of the DeFi movement
+
+*  Claiming your UNI airdrop (if you swapped anything on Uniswap prior to Sept 1st of 2020):  https://coinairdrops.com/airdrop/uniswap-uni/
