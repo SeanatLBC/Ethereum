@@ -12,6 +12,8 @@ All things ETH
 
 What is Decentralization (by Vitalik):  https://medium.com/@VitalikButerin/the-meaning-of-decentralization-a0c92b76a274
 
+HOW TO CANCEL AN ETH TRANSACTION (OR REPLACE WITH HIGHER GAS FEE) - this can be handy when the network gets congested:  https://info.etherscan.com/how-to-cancel-ethereum-pending-transactions/#replacing-cancel-pending-transactions
+
 MyEtherWallet (MEW):  https://www.myetherwallet.com/
 
 MEWConnect (A great way to manage your ETH wallets and interact with ETH DAPPS):  https://mewconnect.myetherwallet.com/#/
