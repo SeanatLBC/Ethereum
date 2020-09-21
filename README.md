@@ -43,3 +43,7 @@ UniSwap - A big part of the DeFi movement
 *  Claiming your UNI airdrop (if you swapped anything on Uniswap prior to Sept 1st of 2020):  https://coinairdrops.com/airdrop/uniswap-uni/
 
 OpenSea - ALL THINGS NFT (Create, Trade, Earn):  https://opensea.io/
+
+Rarible - All Things NFT (Create, Trade, Earn):  https://app.rarible.com/
+
+Mintbase - Future of Digital Assets (Create smartcontract NFT shop in digital marketplace):  https://app.rarible.com/
