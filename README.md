@@ -47,3 +47,12 @@ OpenSea - ALL THINGS NFT (Create, Trade, Earn):  https://opensea.io/
 Rarible - All Things NFT (Create, Trade, Earn):  https://app.rarible.com/
 
 Mintbase - Future of Digital Assets (Create smartcontract NFT shop in digital marketplace):  https://app.rarible.com/
+
+
+DAI | xDai
+
+DAI Bridge:  https://dai-bridge.poa.network/
+
+xChain Explorer:  https://blockscout.com/poa/xdai/
+
+HoneySwap:  https://honeyswap.org/#/swap
