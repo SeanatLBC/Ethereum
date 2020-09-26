@@ -56,3 +56,4 @@ DAI Bridge:  https://dai-bridge.poa.network/
 xChain Explorer:  https://blockscout.com/poa/xdai/
 
 HoneySwap:  https://honeyswap.org/#/swap
+     *  How to Buy xDai and move to HoneySwap:  https://medium.com/@whitecolidon/honey-token-how-to-buy-it-c48802e2e881
