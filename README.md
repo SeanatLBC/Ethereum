@@ -58,3 +58,10 @@ xChain Explorer:  https://blockscout.com/poa/xdai/
 HoneySwap:  https://honeyswap.org/#/swap
      
      *  How to Buy xDai and move to HoneySwap:  https://medium.com/@whitecolidon/honey-token-how-to-buy-it-c48802e2e881
+     
+Identity
+
+  * BrightID - Self Soveriegn Identity Platform using Ethereum-based proof-of-authority blockchain called IDChain:  https://www.brightid.org/
+     *  Schedule of ID Verification Parties:  https://www.brightid.org/meet
+      
+  
