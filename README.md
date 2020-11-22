@@ -16,6 +16,8 @@ HOW TO CANCEL AN ETH TRANSACTION (OR REPLACE WITH HIGHER GAS FEE) - this can be 
 
 MyEtherWallet (MEW):  https://www.myetherwallet.com/
 
+LEDGER (and Ledger Live):  How to set up your Ledger X and Ledger Live Video by Crypto Dad:  https://www.youtube.com/watch?v=8pJbvhuPrRQ&feature=youtu.be
+
 MEWConnect (A great way to manage your ETH wallets and interact with ETH DAPPS):  https://mewconnect.myetherwallet.com/#/
 
 MetaMask (A great wallet for ETH and dAPP's that can sit on your browser):  https://metamask.io/
