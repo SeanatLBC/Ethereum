@@ -6,6 +6,8 @@ All things ETH:  https://ethereum.org/en/
   *  Ethereum Ethplorer:  https://ethplorer.io/
   *  Ethereum Gas Station:  https://ethgasstation.info/
   
+  *  Beacon Chain Explorer:  https://beaconcha.in/
+  
   *  EthHub - A Guide to PoS on ETH 2.0:  https://docs.ethhub.io/ethereum-roadmap/ethereum-2.0/proof-of-stake/
   *  EthHub - Article on ETH 2.0 Tokenomics:  https://docs.ethhub.io/ethereum-roadmap/ethereum-2.0/proof-of-stake/
   *  Zeppelin - EVERYTHING TOKENS (ERC20 and ERC721):  https://docs.openzeppelin.com/contracts/2.x/tokens.html
