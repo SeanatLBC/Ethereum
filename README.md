@@ -60,6 +60,8 @@ Rarible - All Things NFT (Create, Trade, Earn):  https://app.rarible.com/
 
 Mintbase - Future of Digital Assets (Create smartcontract NFT shop in digital marketplace):  https://app.rarible.com/
 
+Bounce - Decentralized Auction and so so:  https://app.bounce.finance/account/lottery
+
 
 DAI | xDai
 
