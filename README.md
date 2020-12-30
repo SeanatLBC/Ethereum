@@ -62,6 +62,8 @@ Mintbase - Future of Digital Assets (Create smartcontract NFT shop in digital ma
 
 Bounce - Decentralized Auction and so so:  https://app.bounce.finance/account/lottery
 
+Accounting Tax Guide for DeFi:  https://www.cointracker.io/blog/defi-yield-farming-crypto-tax-guide
+
 
 DAI | xDai
 
