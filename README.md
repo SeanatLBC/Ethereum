@@ -23,6 +23,7 @@ LEDGER (and Ledger Live):  How to set up your Ledger X and Ledger Live Video by 
 MEWConnect (A great way to manage your ETH wallets and interact with ETH DAPPS):  https://mewconnect.myetherwallet.com/#/
 
 MetaMask (A great wallet for ETH and dAPP's that can sit on your browser):  https://metamask.io/
+Guide to Using MetaMask:  https://cryptobriefing.com/metamask-beginner-guide/
 
 ChainID - details on all chains running on EVM:  https://chainid.network/
 
