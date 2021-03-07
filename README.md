@@ -24,6 +24,7 @@ MEWConnect (A great way to manage your ETH wallets and interact with ETH DAPPS):
 
 MetaMask (A great wallet for ETH and dAPP's that can sit on your browser):  https://metamask.io/
 Guide to Using MetaMask:  https://cryptobriefing.com/metamask-beginner-guide/
+How to Set Up MetaMask:  https://blog.injectiveprotocol.com/how-to-set-up-metamask/
 
 ChainID - details on all chains running on EVM:  https://chainid.network/
 
