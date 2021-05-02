@@ -42,6 +42,12 @@ GaaS and CaaS:  Gas as a Service and Confirmation as a Service - REN:  https://m
 
 AIRDROPS (status of past, present and upcoming airdrops):  https://coinairdrops.com/#airdroplist
 
+KEYS
+
+BIP chart of all the words used in seeds - great for advanced checking of pneumonics: https://github.com/bitcoin/bips/blob/master/bip-0039/english.txt
+
+   *  NOTE: BTC seeds use these words as well.
+
 NFTs
 
 Non-Fungible Tokens (NFT's) - this is a good interactive explainer on NFT's (beginner / user freindly):  https://cointelegraph.com/magazine/nonfungible-tokens/#what-are-the-best-known-projects
