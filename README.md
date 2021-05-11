@@ -42,6 +42,8 @@ GaaS and CaaS:  Gas as a Service and Confirmation as a Service - REN:  https://m
 
 AIRDROPS (status of past, present and upcoming airdrops):  https://coinairdrops.com/#airdroplist
 
+THE MEV Issue (Miner Extractable Value):  https://www.coindesk.com/ethereum-mev-frontrunning-solutions
+
 KEYS
 
 BIP chart of all the words used in seeds - great for advanced checking of pneumonics: https://github.com/bitcoin/bips/blob/master/bip-0039/english.txt
