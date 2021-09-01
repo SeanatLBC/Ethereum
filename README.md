@@ -26,6 +26,8 @@ MetaMask (A great wallet for ETH and dAPP's that can sit on your browser):  http
 Guide to Using MetaMask:  https://cryptobriefing.com/metamask-beginner-guide/
 How to Set Up MetaMask:  https://blog.injectiveprotocol.com/how-to-set-up-metamask/
 
+WHAT IS GAS?  A good explainer video by Unstoppable Domains on GAS differences with ETH Transactions:  https://youtu.be/h3rP3Ptvka4
+
 RUG SCREEN - Copy and paste your contract or solidity code to scan for potential pitfalls:   https://rugscreen.com/Scan/Index
 
 ChainID - details on all chains running on EVM:  https://chainid.network/
