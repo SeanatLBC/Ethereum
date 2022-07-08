@@ -60,7 +60,7 @@ NFTs
 
 Non-Fungible Tokens (NFT's) - this is a good interactive explainer on NFT's (beginner / user freindly):  https://cointelegraph.com/magazine/nonfungible-tokens/#what-are-the-best-known-projects
 
-THE NFT BIBLE - OPENSEA Guide to ERC721 (NFTs):  https://opensea.io/blog/guides/non-fungible-tokens/
+THE NFT BIBLE - OPENSEA Guide to ERC721 (NFTs):  https://opensea.io/blog/guides/non-fungible-tokens
 
 DeFi - We look at many of the pieces at work within the decentralized finance landscape
 
