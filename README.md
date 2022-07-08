@@ -6,6 +6,7 @@ All things ETH:  https://ethereum.org/en/
   *  Ethereum Ethplorer:  https://ethplorer.io/
   *  Ethereum Gas Station:  https://ethgasstation.info/
   *  Ehtereum Gas TRACKER:  https://etherscan.io/gastracker#gassender
+  *  Zapper (user freindly wallet dashboard):  https://zapper.fi/dashboard
   
   *  Beacon Chain Explorer:  https://beaconcha.in/
   
