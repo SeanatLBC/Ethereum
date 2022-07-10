@@ -60,6 +60,11 @@ NFTs
 
 Non-Fungible Tokens (NFT's) - this is a good interactive explainer on NFT's (beginner / user freindly):  https://cointelegraph.com/magazine/nonfungible-tokens/#what-are-the-best-known-projects
 
+Token Gating - Token access gives users the ability to create an exclusive, gated experience for their NFT holders:  https://docs.niftykit.com/token-access/token-gating
+
+NiftyKit Docs - You can use these docs to create and manage NFTs with no coding:  https://docs.niftykit.com/get-started/introduction
+NiftyKit - SaaS ($50 for Pro account) allows you to mint and manage nfts (no coding).  Do this as a service for others:  https://niftykit.com/
+
 THE NFT BIBLE - OPENSEA Guide to ERC721 (NFTs):  https://opensea.io/blog/guides/non-fungible-tokens
 
 DeFi - We look at many of the pieces at work within the decentralized finance landscape
