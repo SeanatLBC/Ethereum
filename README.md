@@ -1,6 +1,8 @@
 # Ethereum
 All things ETH:  https://ethereum.org/en/
 
+The Definitive Ethereum Readling List:  https://pin.ski/3Sr5yTS
+
   Ethereum
   *  Ethereum Etherescan: https://etherscan.io/
   *  Ethereum Ethplorer:  https://ethplorer.io/
