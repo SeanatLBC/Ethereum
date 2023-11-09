@@ -71,7 +71,7 @@ THE NFT BIBLE - OPENSEA Guide to ERC721 (NFTs):  https://opensea.io/blog/guides/
 
 DeFi - We look at many of the pieces at work within the decentralized finance landscape
 
-*  Ampleforth - https://www.ampleforth.org/
+*  Maple (de)Finance:  https://maple.finance/ - Defi DEX
 
 UniSwap - A big part of the DeFi movement
 
